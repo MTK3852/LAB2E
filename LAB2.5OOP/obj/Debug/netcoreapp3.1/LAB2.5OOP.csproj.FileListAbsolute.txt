@@ -1,0 +1,11 @@
+C:\Users\teat5\source\repos\LAB2.5OOP\LAB2.5OOP\bin\Debug\netcoreapp3.1\LAB2.5OOP.exe
+C:\Users\teat5\source\repos\LAB2.5OOP\LAB2.5OOP\bin\Debug\netcoreapp3.1\LAB2.5OOP.deps.json
+C:\Users\teat5\source\repos\LAB2.5OOP\LAB2.5OOP\bin\Debug\netcoreapp3.1\LAB2.5OOP.runtimeconfig.json
+C:\Users\teat5\source\repos\LAB2.5OOP\LAB2.5OOP\bin\Debug\netcoreapp3.1\LAB2.5OOP.runtimeconfig.dev.json
+C:\Users\teat5\source\repos\LAB2.5OOP\LAB2.5OOP\bin\Debug\netcoreapp3.1\LAB2.5OOP.dll
+C:\Users\teat5\source\repos\LAB2.5OOP\LAB2.5OOP\bin\Debug\netcoreapp3.1\LAB2.5OOP.pdb
+C:\Users\teat5\source\repos\LAB2.5OOP\LAB2.5OOP\obj\Debug\netcoreapp3.1\LAB2.5OOP.AssemblyInfoInputs.cache
+C:\Users\teat5\source\repos\LAB2.5OOP\LAB2.5OOP\obj\Debug\netcoreapp3.1\LAB2.5OOP.AssemblyInfo.cs
+C:\Users\teat5\source\repos\LAB2.5OOP\LAB2.5OOP\obj\Debug\netcoreapp3.1\LAB2.5OOP.dll
+C:\Users\teat5\source\repos\LAB2.5OOP\LAB2.5OOP\obj\Debug\netcoreapp3.1\LAB2.5OOP.pdb
+C:\Users\teat5\source\repos\LAB2.5OOP\LAB2.5OOP\obj\Debug\netcoreapp3.1\LAB2.5OOP.csprojAssemblyReference.cache
